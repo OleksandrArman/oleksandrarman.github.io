@@ -13,7 +13,7 @@ paleta escollida ha estat generada per la imatge de perfi:
 
 resultat i anomentats:
 
-- ![granate]([https://placehold.co/15x15/f03c15/f03c15.png](https://readme-swatches.vercel.app/8C4D5E)) `#8C4D5E`
+- ![granate](https://readme-swatches.vercel.app/8C4D5E) `#8C4D5E`
 
 
 ## Figma
