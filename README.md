@@ -8,10 +8,8 @@ Public link to my [CV webpage](https://oleksandrarman.github.io/)
 ### Target user profile:
 ### Information architecture:
 ### Visual design:
-* Palette:
+#### Palette:
 paleta escollida ha estat generada per la imatge de perfi:
-
-resultat:
 
 - ![#8C4D5E](https://readme-swatches.vercel.app/8C4D5E) `#8C4D5E`
 - ![#6A8FA6](https://readme-swatches.vercel.app/6A8FA6) `#6A8FA6`
