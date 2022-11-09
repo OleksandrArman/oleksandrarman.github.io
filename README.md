@@ -5,10 +5,10 @@ Hypermedia project: **Create your CV website**
 Public link to my [CV webpage](https://oleksandrarman.github.io/)
 
 ## Project analysis
-* Target user profile:
-* Information architecture:
-* Visual design:
-** Palette:
+#Target user profile:
+#Information architecture:
+#Visual design:
+* Palette:
 
 ## Figma
 Link to my [figma desing](https://oleksandrarman.github.io/)
