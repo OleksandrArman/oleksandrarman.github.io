@@ -22,6 +22,7 @@ Font chosed is from google fonts named [Rubik](https://fonts.google.com/specimen
 Also i used icons from [fontawesome](https://fontawesome.com/v4/icons/)
 
 #### Page layout:
+Design is the typical and standard of many curriculums  
 
 ## Figma
 Link to my [figma desing](https://oleksandrarman.github.io/)
