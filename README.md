@@ -8,6 +8,7 @@ Public link to my [CV webpage](https://oleksandrarman.github.io/)
 * Target user profile:
 * Information architecture:
 * Visual design:
+** Palette:
 
 ## Figma
 Link to my [figma desing](https://oleksandrarman.github.io/)
