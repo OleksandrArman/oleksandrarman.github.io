@@ -13,7 +13,7 @@ paleta escollida ha estat generada per la imatge de perfi:
 
 resultat i anomentats:
 
-- [granate](https://readme-swatches.vercel.app/8C4D5E) `#8C4D5E`
+- granate ![#8C4D5E](https://readme-swatches.vercel.app/8C4D5E) `#8C4D5E`
 
 
 ## Figma
