@@ -1,5 +1,4 @@
-# README.MD
-Hypermedia project: **Create your CV website**
+# Hypermedia project: **Create your CV website**
 
 ## Public link
 Public link to my [CV webpage](https://oleksandrarman.github.io/)
