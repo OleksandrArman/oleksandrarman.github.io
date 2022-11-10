@@ -30,4 +30,4 @@ Also i used icons from [fontawesome](https://fontawesome.com/v4/icons/)
 Design is the typical and standard of many curriculums  
 
 ## Figma
-Link to my [figma desing](https://oleksandrarman.github.io/)
+Link to my [figma desing](https://www.figma.com/file/OW4RlaqgyX11h6zHs3eD7X/cv-project?t=PTyrrowlGVRrPLZb-1)
