@@ -5,7 +5,8 @@ Public link to my [CV webpage](https://oleksandrarman.github.io/)
 
 ## Project analysis
 ### Target user profile:
-fo evriuan
+The final user will be the employer.  
+She/he is expected to find… All information about me and my work expetience as explained to my CV.
 
 ### Information architecture:
 design is divided into 2 parts left and right
